@@ -1,2 +1,2 @@
-# yeti-shopping
+# ye-shop
  

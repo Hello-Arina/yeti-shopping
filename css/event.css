@@ -1,0 +1,650 @@
+
+.hhh1 {
+  top: 0vw;
+  left: 4vw;
+  width: 80vw;
+  font-family: "actay wide";
+  font-size: 5.56vw;
+  color: #000AFF;
+  position: absolute;
+  text-align: left;
+  text-transform: uppercase;
+}
+.ppp {
+  top: 1.8vw;
+  left: 86.1vw;
+  width: 10vw;
+  font-family: "actay";
+  font-size: 3.17vw;
+  color: #000AFF;
+  position: absolute;
+  text-align: right;
+}
+.line {
+  position: absolute;
+  width: 90.3vw;
+  height: 0px;
+  left: 4.7vw;
+  top: 5.7vw;
+  border: 4px solid #000AFF;
+  border-radius: 1vw;
+}
+.fam {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.hol {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.mar {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.new {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.did {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.nc {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.colab {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.winter {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.wend {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.charity {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.kids {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.serious {
+  top: 11.2vw;
+  width: 100vw;
+  height: 6.2vw;
+  position: relative;
+  margin-bottom: 5vw;
+}
+.footer {
+  top: 11.2vw;
+  width: 100%;
+  height: 15vw;
+  background-color: #000AFF;
+  position: relative;
+}
+.footer .hse {
+  top: 3.5vw;
+  left: 4vw;
+  width: 20vw;
+  position: absolute;
+}
+.footer .fot {
+  top: 3vw;
+  left: 28vw;
+  width: 10vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: left;
+}
+.footer .fot2 {
+  top: 6vw;
+  left: 28vw;
+  width: 10vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: left;
+}
+.footer .fot3 {
+  top: 9vw;
+  left: 28vw;
+  width: 10vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: left;
+}
+.footer .fot4 {
+  top: 3vw;
+  left: 45vw;
+  width: 10vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: left;
+}
+.footer .fot5 {
+  top: 6vw;
+  left: 45vw;
+  width: 10vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: left;
+}
+.footer .fot6 {
+  top: 3vw;
+  left: 66vw;
+  width: 30vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: right;
+}
+.footer .fot7 {
+  top: 6vw;
+  left: 66vw;
+  width: 30vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: right;
+}
+.hol2 {
+  position: absolute;
+  top: 15vw;
+  left: 73vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.fam2 {
+  position: absolute;
+  top: 7vw;
+  left: 44vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.mar2 {
+  position: absolute;
+  top: 27vw;
+  left: 35vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.new2 {
+  position: absolute;
+  top: 37vw;
+  left: 19vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.did2 {
+  position: absolute;
+  top: 48vw;
+  left: 81vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.nc2 {
+  position: absolute;
+  top: 60vw;
+  left: 66vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.colab2 {
+  position: absolute;
+  top: 70vw;
+  left: 6vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.winter2 {
+  position: absolute;
+  top: 83vw;
+  left: 29vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.wend2 {
+  position: absolute;
+  top: 92vw;
+  left: 54vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.charity2 {
+  position: absolute;
+  top: 104vw;
+  left: 67vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.kids2 {
+  position: absolute;
+  top: 115vw;
+  left: 14vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.serious2 {
+  position: absolute;
+  top: 127vw;
+  left: 40vw;
+  width: 11.64vw;
+  height: 17.63vw;
+  display: none;
+}
+.button {
+  position: relative;
+  top: 9vw;
+  left: 35vw;
+  background-color: #000AFF;
+  width: 26vw;
+  height: 8vw;
+  border-radius: 5vw;
+  cursor: pointer;
+}
+.button p {
+  top: 2.2vw;
+  left: 2vw;
+  width: 22vw;
+  font-family: "actay";
+  font-size: 3.17vw;
+  color: #C4DFFF;
+  position: absolute;
+  text-align: center;
+}
+.forma {
+  position: fixed;
+  top: 8vw;
+  left: 21vw;
+  width: 56.32vw;
+  height: 37.78vw;
+  border-radius: 4vw;
+  background-color: #000AFF;
+  display: none;
+}
+.blur {
+  display: none;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  top: 0vw;
+  left: 0vw;
+  background: rgba(196, 223, 255, 0.3);
+  backdrop-filter: blur(8px);
+}
+.back1 {
+  top: 1.6vw;
+  left: calc(100% - 7vw);
+  width: 5vw;
+  height: 5vw;
+  position: relative;
+}
+.forma h1 {
+  top: 0.2vw;
+  left: 11vw;
+  width: 33vw;
+  font-family: "actay wide";
+  font-size: 3.17vw;
+  color: #C4DFFF;
+  text-transform: uppercase;
+  position: relative;
+  text-align: center;
+}
+.forma p {
+  top: 0.1vw;
+  left: 0vw;
+  width: 36vw;
+  font-family: "actay";
+  font-size: 2vw;
+  color: #C4DFFF;
+  position: relative;
+  text-align: center;
+}
+.choosing {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.column1 {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  background-color: pink;
+}
+.custom {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+.custom+label {
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+}
+label {
+  font-family: "actay";
+    font-size: 2vw;
+    margin-left: 1.2vw;
+    color: #C4DFFF;
+}
+.rcustom+label::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  flex-grow: 0;
+  border: 2px solid black;
+  border-radius: 50%;
+  margin-right: 0.5em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50% 50%;
+}
+
+.form{
+  font-family: "actay wide";
+font-style: normal;
+font-weight: 500;
+font-size: 3.31vw;
+line-height: 3.17vw;
+text-align: center;
+margin-top: 1.46vw;
+color: #C4DFFF;
+}
+.question{
+  display: none;
+  width: 43vw;
+  height:73vh;
+  z-index: 15;
+  background-color: #000AFF;
+  border-radius: 3.31vw;
+  position: fixed;
+  top:14vh;
+  left: calc( 50% - 21.5vw);
+}
+.forma_after{
+  display: none;
+  width: 45vw;
+  height:15vh;
+  z-index: 15;
+  background-color: #000AFF;
+  color: white;
+  position: fixed;
+  padding: 1.32vw;
+  top: calc( 50% - 12vh);
+  left: calc( 50% - 21.5vw);
+}
+.forma{
+  display: none;
+  width: 43vw;
+  height:78vh;
+  z-index: 15;
+  background-color: #000AFF;
+  position: fixed;
+  top:14vh;
+  left: calc( 50% - 21.5vw);
+}
+.form-split {
+    width: 514px;
+    position: relative;
+    margin: 12px auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .cross{
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    left: 36vw;
+    top: 3vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+  }
+  .cross img {
+    width: 5vw;
+    height: 5vw;
+  }
+
+.big{
+  font-family: "actay";
+  font-size: 3.31vw;
+  line-height: 3.17vw;
+  text-align: center;
+  margin-top: 2.65vw;
+}
+input[type="text"], input[type="email"], input[type="tel"], .put{
+  display: block;
+    width: 31.75vw;
+    position: relative;
+    margin: 0.66vw auto;
+    height: 3.44vw;
+    padding: 0 1.19vw;
+    font-family: "actay";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.59vw;
+    line-height: 1.72vw;
+    border-radius: 0px;
+    border: 2px solid #000000;
+      color: #000AFF;
+}
+.put {
+  display: inline-block;
+  font-family: "actay";
+  width: 31.75vw;
+  margin: 0;
+    color: #000AFF;
+}
+.fo {
+    font-family: "actay";
+    display: block;
+    width: 31.75vw;
+    position: relative;
+    margin: 1.19vw auto 0.79vw auto;
+    font-size: 1.59vw;
+      color: #000AFF;
+}
+.but {
+    font-family: "actay";
+    display: block;
+    width: 31.75vw;
+    position: relative;
+  padding-left: 4.96vw;
+  padding-top: 1.65vw;
+    font-size: 1.59vw;
+      color: #000AFF;
+}
+label{
+  font-family: "actay";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.59vw;
+  line-height: 1.72vw;
+  margin-left: 1.19vw;
+}
+ .checkbox-list {
+    width: 31.75vw;
+    position: relative;
+    display: block;
+    margin: 1.19vw auto;
+  }
+  .custom{
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+.custom+label {
+  display: inline-flex;
+  align-items: center;
+  user-select: none;
+}
+.custom+label::before {
+  content: '';
+  color: white;
+  background-color: white;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  flex-grow: 0;
+  border: 0.13vw solid #000000;
+  margin-right: 0.5em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50% 50%;
+  cursor: pointer;
+}
+
+.custom:not(:disabled):not(:checked)+label:hover::before {
+  border-color: #000000;
+  background-color: #000000;
+}
+.custom:checked+label::before {
+  border-color: #000000;
+  background-color: #000000;
+}
+
+  .radio-list{
+    position: relative;
+    display: inline-block;
+    width: 0.13vw;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .list{
+    margin-left: 4.50vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .list1, .list2{
+  display: flex;
+  flex-direction: column;
+    width: 13.23vw;
+  }
+  .list2{
+    margin-left: 0.79vw;
+  }
+  .continue, .complete{
+    left: calc(21.5vw - 4.5em);
+  }
+
+.radio-list{
+  width: 29.76vw;
+margin-left: 3.31vw;
+margin-top: 1.85vw;
+
+}
+.rcustom{
+   position: absolute;
+   z-index: -1;
+   opacity: 0;
+ }
+ /* для элемента label связанного с .custom-radio */
+ .rcustom+label {
+   display: inline-flex;
+   align-items: center;
+   user-select: none;
+ }
+ /* создание в label псевдоэлемента  before со следующими стилями */
+ .rcustom+label::before {
+   content: '';
+   display: inline-block;
+   width: 1em;
+   height: 1em;
+   flex-shrink: 0;
+   flex-grow: 0;
+   border: 0.13vw solid black;
+   border-radius: 50%;
+   margin-right: 0.5em;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 50% 50%;
+ }
+ /* стили при наведении курсора на радио */
+ .rcustom:not(:disabled):not(:checked)+label:hover::before {
+  background-color: #C4DFFF;
+  border: 0.13vw solid #C4DFFF;
+ }
+ /* стили для активной радиокнопки (при нажатии на неё) */
+
+ .rcustom:checked+label::before {
+   border-color: #C4DFFF;
+   background-color: #C4DFFF;
+      border: 0.13vw solid #C4DFFF;
+   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='000000'/%3e%3c/svg%3e");
+ }
+ .button1 {
+   position: relative;
+    top: 1.5vw;
+    left: 11vw;
+    background-color: #C4DFFF;
+    width: 20vw;
+    height: 5vw;
+    border-radius: 5vw;
+    cursor: pointer;
+}
+ }

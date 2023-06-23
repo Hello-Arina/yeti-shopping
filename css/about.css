@@ -1,0 +1,290 @@
+.menu {
+  width: 100%;
+  height: 12vh;
+  background-color: #C4DFFF;
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.first {
+  left: 3.84vw;
+  width: 7vw;
+  height: 3vw;
+  position: relative;
+}
+.first img {
+  width: 7vw;
+  height: 3vw;
+}
+.choice {
+  left: calc(100% - 14.8vw);
+  width: 3.7vw;
+  height: 2.7vw;
+  position: relative;
+}
+.choice img {
+  width: 3.7vw;
+  height: 2.7vw;
+}
+.menu h2 {
+  left: 28vw;
+  font-family: "actay wide";
+  font-size: 1.83vw;
+  color: #000AFF;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+}
+.block1 {
+  top: 8vw;
+  left: 4vw;
+  position: absolute;
+  width: 30.64vw;
+  height: 39.73vw;
+  background-color: blue;
+  border-radius: 4.96vw;
+  overflow: hidden;
+}
+
+.block1 img{
+  width: 30.64vw;
+  height: 39.73vw;
+}
+.block2 {
+  top: 8vw;
+  left: 38vw;
+  position: absolute;
+  width: 30.64vw;
+  height: 39.73vw;
+  background-color: blue;
+  border-radius: 4.96vw;
+  overflow: hidden;
+}
+.block2 img{
+  width: 30.64vw;
+  height: 39.73vw;
+}
+.block3 {
+  top: 8vw;
+  left: 72vw;
+  position: absolute;
+  width: 30.64vw;
+  height: 39.73vw;
+  background-color: blue;
+  border-radius: 4.96vw;
+  overflow: hidden;
+}
+.block3 img{
+  width: 30.64vw;
+  height: 39.73vw;
+}
+.block4 {
+  top: 8vw;
+  left: 106vw;
+  position: absolute;
+  width: 30.64vw;
+  height: 39.73vw;
+  background-color: blue;
+  border-radius: 4.96vw;
+  overflow: hidden;
+}
+.block4 img{
+  width: 30.64vw;
+  height: 39.73vw;
+}
+.block5 {
+  top: 8vw;
+  left: 140vw;
+  position: absolute;
+  width: 30.64vw;
+  height: 39.73vw;
+  background-color: blue;
+  border-radius: 4.96vw;
+  overflow: hidden;
+}
+.block5 img{
+  width: 30.64vw;
+  height: 39.73vw;
+}
+.circle {
+  position: absolute;
+  bottom: 2vw;
+  left: 2vw;
+  width: 5.62vw;
+  height: 5.62vw;
+  background-color: #C4DFFF;
+  border-radius: 50%;
+}
+.circle p{
+  position: absolute;
+  top: 1.7vw;
+  left: 1.2vw;
+  width: 3vw;
+  font-family: "actay wide";
+  font-size: 2.84vw;
+  color: #000AFF;
+  text-align: center;
+}
+.expl {
+  position: absolute;
+  bottom: 2vw;
+  left: 1.9vw;
+  width: 16.62vw;
+  height: 16.62vw;
+  background-color: #C4DFFF;
+  border-radius: 3vw;
+  display: none;
+}
+.expl h1 {
+  position: absolute;
+  top: 2.3vw;
+  left: 2.3vw;
+  width: 10vw;
+  font-family: "actay wide";
+  font-size: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+.expl p {
+  position: absolute;
+  top: 5.82vw;
+  left: 1.4vw;
+  width: 13vw;
+  font-family: "actay";
+  font-size: 1.06vw;
+  line-height: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+}
+.expl2 {
+  position: absolute;
+  bottom: 2vw;
+  left: 1.9vw;
+  width: 20.62vw;
+  height: 15.62vw;
+  background-color: #C4DFFF;
+  border-radius: 3vw;
+  display: none;
+}
+.expl2 h1 {
+  position: absolute;
+  top: 2.28vw;
+  left: 2.3vw;
+  width: 10vw;
+  font-family: "actay wide";
+  font-size: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+.expl2 p {
+  position: absolute;
+  top: 5.8vw;
+  left: 2.3vw;
+  width: 17vw;
+  font-family: "actay";
+  font-size: 1.06vw;
+  line-height: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+}
+.expl3 {
+  position: absolute;
+  bottom: 2vw;
+  left: 1.9vw;
+  width: 18vw;
+  height: 16.62vw;
+  background-color: #C4DFFF;
+  border-radius: 3vw;
+  display: none;
+}
+.expl3 h1 {
+  position: absolute;
+  top: 2.3vw;
+  left: 2.3vw;
+  width: 10vw;
+  font-family: "actay wide";
+  font-size: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+.expl3 p {
+  position: absolute;
+  top: 5.82vw;
+  left: 2.3vw;
+  width: 15vw;
+  font-family: "actay";
+  font-size: 1.06vw;
+  line-height: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+}
+.expl4 {
+  position: absolute;
+  bottom: 2vw;
+  left: 1.9vw;
+  width: 18vw;
+  height: 16.62vw;
+  background-color: #C4DFFF;
+  border-radius: 3vw;
+  display: none;
+}
+.expl4 h1 {
+  position: absolute;
+  top: 2.3vw;
+  left: 2.3vw;
+  width: 15vw;
+  font-family: "actay wide";
+  font-size: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+.expl4 p {
+  position: absolute;
+  top: 5.82vw;
+  left: 2.3vw;
+  width: 15vw;
+  font-family: "actay";
+  font-size: 1.06vw;
+  line-height: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+}
+.expl5 {
+  position: absolute;
+  bottom: 2vw;
+  left: 1.9vw;
+  width: 18vw;
+  height: 16.62vw;
+  background-color: #C4DFFF;
+  border-radius: 3vw;
+  display: none;
+}
+.expl5 h1 {
+  position: absolute;
+  top: 2.3vw;
+  left: 2.3vw;
+  width: 15vw;
+  font-family: "actay wide";
+  font-size: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+.expl5 p {
+  position: absolute;
+  top: 5.82vw;
+  left: 2.3vw;
+  width: 15vw;
+  font-family: "actay";
+  font-size: 1.06vw;
+  line-height: 1.32vw;
+  color: #000AFF;
+  text-align: left;
+}

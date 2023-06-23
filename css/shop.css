@@ -1,0 +1,111 @@
+.huge {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.huge .pervoe {
+  flex: none;
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.huge .pervoe .f {
+  width: 40vw;
+  position: relative;
+  left: 6vw;
+  top: 1vw;
+}
+.huge .pervoe .s {
+  width: 41vw;
+  position: relative;
+  left: 14vw;
+  top: 3.5vw;
+}
+.huge .vtoroe {
+  flex: none;
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #C4DFFF;
+}
+.huge .vtoroe .h1 {
+  width: 40vw;
+  position: relative;
+  left: 3vw;
+  top: 2vw;
+}
+.huge .vtoroe .h2 {
+  width: 49vw;
+  position: relative;
+  left: 8vw;
+  top: 0.5vw;
+}
+.huge .trtie {
+  flex: none;
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #C4DFFF;
+}
+.huge .trtie .c1 {
+  width: 46vw;
+  position: relative;
+  left: 3vw;
+  top: 3vw;
+}
+.huge .trtie .c2 {
+  width: 41vw;
+  position: relative;
+  left: 8vw;
+  top: 0.5vw;
+}
+.circle1 {
+  position: absolute;
+  bottom: 11vw;
+  left: 7vw;
+  width: 5.62vw;
+  height: 5.62vw;
+  background-color: #000AFF ;
+  border-radius: 50%;
+}
+.circle2 {
+  position: absolute;
+  top: 9vw;
+  left: 82vw;
+  width: 5.62vw;
+  height: 5.62vw;
+  background-color: #000AFF ;
+  border-radius: 50%;
+}
+.try1 {
+  position: absolute;
+  bottom: 5vw;
+  left: 12vw;
+  width: 5.62vw;
+  height: 5.62vw;
+}
+.try2 {
+  position: absolute;
+  bottom: 9vw;
+  right: 35vw;
+  width: 5.62vw;
+  height: 5.62vw;
+}
+
+.try3 {
+  position: absolute;
+  bottom: 7vw;
+  left: 36vw;
+  width: 5.62vw;
+  height: 5.62vw;
+}
+.try4 {
+  position: absolute;
+  bottom: 12vw;
+  right: 40vw;
+  width: 5.62vw;
+  height: 5.62vw;
+}

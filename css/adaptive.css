@@ -1,0 +1,1327 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  /* about  */
+  .menu h2 {
+    left: 25vw;
+    font-size: 2.83vw;
+    line-height: 3.2vw;
+
+  }
+  .block1 {
+    top: 14vw;
+    width: 55vw;
+    height: 60vw;
+  }
+
+  .block1 img{
+    width: 55vw;
+    height: 60vw;
+  }
+  .block2 {
+    top: 14vw;
+    left: 62vw;
+    width: 55vw;
+    height: 60vw;
+  }
+  .block2 img{
+    width: 55vw;
+    height: 60vw;
+  }
+  .block3 {
+    top: 14vw;
+    left: 120vw;
+    width: 55vw;
+    height: 60vw;
+  }
+  .block3 img{
+    width: 55vw;
+    height: 60vw;
+  }
+  .block4 {
+    top: 14vw;
+    left: 178vw;
+    width: 55vw;
+    height: 60vw;
+  }
+  .block4 img{
+    width: 55vw;
+    height: 60vw;
+  }
+  .block5 {
+    top: 14vw;
+    left: 237vw;
+    width: 55vw;
+    height: 60vw;
+  }
+  .block5 img{
+    width: 55vw;
+    height: 60vw;
+  }
+  /* шоппинг */
+  .circle2 {
+    top: 15vw;
+  }
+  .try1 {
+    bottom: 16vw;
+  }
+  .try2 {
+    bottom: 22vw;
+  }
+  .try3 {
+    bottom: 20vw;
+  }
+  .try4 {
+    bottom: 24vw;
+  }
+
+  /* moda */
+  .book {
+    top: 18vw;
+    left: 17vw;
+    width: 64vw;
+    height: 45vw;
+  }
+  #big1 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big2 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big3 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big4 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big5 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big6 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big7 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big8 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big9 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big10 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big11 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #big12 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med1 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med2 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med3 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med4 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med5 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med6 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med7 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med8 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #med9 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small1 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small2 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small3 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small4 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small5 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small6 {
+    width: 64vw;
+    height: 45vw;
+  }
+  #small7 {
+    width: 64vw;
+    height: 45vw;
+  }
+  .left {
+    top: 36vw;
+    left: 10vw;
+    width: 5vw;
+  }
+  .left img{
+    width: 5vw;
+  }
+  .right {
+    top: 36vw;
+    left: 85vw;
+    width: 5vw;
+  }
+  .right img{
+    width: 5vw;
+  }
+  .note {
+    top: 20vw;
+    left: 24.9vw;
+    width: 50vw;
+    font-family: "actay";
+    font-size: 2.38vw;
+    color: #000AFF;
+    position: relative;
+    text-align: center;
+  }
+
+  /* события */
+  .blur {
+    display: none;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0vw;
+    left: 0vw;
+    background: rgba(196, 223, 255, 0.3);
+    backdrop-filter: blur(8px);
+  }
+  .back1 {
+    top: 1.6vw;
+    left: calc(100% - 7vw);
+    width: 5vw;
+    height: 5vw;
+    position: relative;
+  }
+  .forma h1 {
+    top: 0.2vw;
+    left: 11vw;
+    width: 33vw;
+    font-family: "actay wide";
+    font-size: 3.17vw;
+    color: #C4DFFF;
+    text-transform: uppercase;
+    position: relative;
+    text-align: center;
+  }
+  .forma p {
+    top: 0.1vw;
+    left: 0vw;
+    width: 36vw;
+    font-family: "actay";
+    font-size: 2vw;
+    color: #C4DFFF;
+    position: relative;
+    text-align: center;
+  }
+  .choosing {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .column1 {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: pink;
+  }
+  .custom {
+      position: absolute;
+      z-index: -1;
+      opacity: 0;
+  }
+  .custom+label {
+      display: inline-flex;
+      align-items: center;
+      user-select: none;
+  }
+  label {
+    font-family: "actay";
+      font-size: 2vw;
+      margin-left: 1.2vw;
+      color: #C4DFFF;
+  }
+  .rcustom+label::before {
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;
+  }
+
+  .form{
+    font-family: "actay wide";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.31vw;
+  line-height: 3.17vw;
+  text-align: center;
+  margin-top: 1.46vw;
+  color: #C4DFFF;
+  }
+  .question{
+    display: none;
+    width: 43vw;
+    height:65vh;
+    z-index: 15;
+    background-color: #000AFF;
+    border-radius: 3.31vw;
+    position: fixed;
+    top:14vh;
+    left: calc( 50% - 21.5vw);
+  }
+  .forma_after{
+    display: none;
+    width: 45vw;
+    height:15vh;
+    z-index: 15;
+    background-color: #000AFF;
+    color: white;
+    position: fixed;
+    padding: 1.32vw;
+    top: calc( 50% - 12vh);
+    left: calc( 50% - 21.5vw);
+  }
+  .forma{
+    display: none;
+    width: 43vw;
+    height:65vh;
+    z-index: 15;
+    background-color: #000AFF;
+    position: fixed;
+    top:14vh;
+    left: calc( 50% - 21.5vw);
+  }
+  .form-split {
+      width: 514px;
+      position: relative;
+      margin: 12px auto;
+      display: flex;
+      justify-content: space-between;
+    }
+    .cross{
+      width: 3vw;
+      height: 3vw;
+      position: relative;
+      left: 36vw;
+      top: 3vh;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      cursor: pointer;
+    }
+    .cross img {
+      width: 5vw;
+      height: 5vw;
+    }
+
+  .big{
+    font-family: "actay";
+    font-size: 3.31vw;
+    line-height: 3.17vw;
+    text-align: center;
+    margin-top: 2.65vw;
+  }
+  input[type="text"], input[type="email"], input[type="tel"], .put{
+    display: block;
+      width: 31.75vw;
+      position: relative;
+      margin: 0.66vw auto;
+      height: 3.44vw;
+      padding: 0 1.19vw;
+      font-family: "actay";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.59vw;
+      line-height: 1.72vw;
+      border-radius: 0px;
+      border: 2px solid #000000;
+        color: #000AFF;
+  }
+  .put {
+    display: inline-block;
+    font-family: "actay";
+    left: 4vw;
+    width: 31.75vw;
+    margin: 0;
+    color: #000AFF;
+  }
+  .fo {
+      font-family: "actay";
+      display: block;
+      width: 31.75vw;
+      position: relative;
+      margin: 1.19vw auto 0.79vw auto;
+      font-size: 1.59vw;
+        color: #000AFF;
+  }
+  .but {
+      font-family: "actay";
+      display: block;
+      width: 31.75vw;
+      position: relative;
+    padding-left: 4.96vw;
+    padding-top: 1.65vw;
+      font-size: 1.59vw;
+        color: #000AFF;
+  }
+  label{
+    font-family: "actay";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.59vw;
+    line-height: 1.72vw;
+    margin-left: 1.19vw;
+  }
+   .checkbox-list {
+      width: 31.75vw;
+      position: relative;
+      display: block;
+      margin: 1.19vw auto;
+    }
+    .custom{
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+  }
+  .custom+label {
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+  }
+  .custom+label::before {
+    content: '';
+    color: white;
+    background-color: white;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 0.13vw solid #000000;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;
+    cursor: pointer;
+  }
+
+    .radio-list{
+      position: relative;
+      display: inline-block;
+      width: 0.13vw;
+      margin-left: 0;
+      margin-top: 0;
+    }
+    .list{
+      margin-left: 4.50vw;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+    }
+    .list1, .list2{
+    display: flex;
+    flex-direction: column;
+      width: 13.23vw;
+    }
+    .list2{
+      margin-left: 0.79vw;
+    }
+    .continue, .complete{
+      left: calc(21.5vw - 4.5em);
+    }
+
+  .radio-list{
+    width: 29.76vw;
+    margin-left: 3.31vw;
+    margin-top: 4vw;
+  }
+   .button1 {
+      top: 3vw;
+      left: 12vw;
+   }
+   /* меню */
+   .choice1 {
+     top: 0.6vw;
+     left: calc(100% - 8.1vw);
+     width: 5vw;
+     height: 5vw;
+     position: absolute;
+   }
+   .choice1 img {
+     width: 5vw;
+     height: 5vw;
+     position: absolute;
+   }
+   .base-menu .p{
+     top: 23vw;
+     left: 35vw;
+     width: 30vw;
+     font-family: "actay wide";
+     font-size: 4.23vw;
+     color: #C4DFFF;
+     position: relative;
+     text-align: center;
+     text-transform: uppercase;
+     margin-bottom: 2vw;
+   }
+   .overlay .p{
+     top: 23vw;
+     left: 35vw;
+     width: 30vw;
+     font-family: "actay wide";
+     font-size: 4.23vw;
+     color: #000AFF;
+     position: relative;
+     text-align: center;
+     text-transform: uppercase;
+     margin-bottom: 2vw;
+   }
+   .sneg {
+     top: 67vw;
+     left: calc(100% - 7vw);
+     width: 3vw;
+     height: 3vw;
+     position: absolute;
+   }
+   .sneg2 {
+     top: 67vw;
+
+   }
+   .blue-logo {
+     top: 33vw;
+     left: 3vw;
+   }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+   /* about  */
+   .menu h2 {
+     left: 27vw;
+     font-size: 4.83vw;
+     line-height: 4.2vw;
+   }
+   .block1 {
+     top: 14vw;
+     width: 55vw;
+     height: 60vw;
+   }
+
+   .block1 img{
+     width: 55vw;
+     height: 60vw;
+   }
+   .block2 {
+     top: 14vw;
+     left: 62vw;
+     width: 55vw;
+     height: 60vw;
+   }
+   .block2 img{
+     width: 55vw;
+     height: 60vw;
+   }
+   .block3 {
+     top: 14vw;
+     left: 120vw;
+     width: 55vw;
+     height: 60vw;
+   }
+   .block3 img{
+     width: 55vw;
+     height: 60vw;
+   }
+   .block4 {
+     top: 14vw;
+     left: 178vw;
+     width: 55vw;
+     height: 60vw;
+   }
+   .block4 img{
+     width: 55vw;
+     height: 60vw;
+   }
+   .block5 {
+     top: 14vw;
+     left: 237vw;
+     width: 55vw;
+     height: 60vw;
+   }
+   .block5 img{
+     width: 55vw;
+     height: 60vw;
+   }
+   /* шоппинг */
+   .circle2 {
+     top: 15vw;
+   }
+   .try1 {
+     bottom: 19vw;
+   }
+   .try2 {
+     bottom: 22vw;
+   }
+   .try3 {
+     bottom: 22vw;
+   }
+   .try4 {
+     bottom: 26vw;
+   }
+
+   /* moda */
+   .book {
+     top: 18vw;
+     left: 17vw;
+     width: 64vw;
+     height: 45vw;
+   }
+   #big1 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big2 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big3 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big4 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big5 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big6 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big7 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big8 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big9 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big10 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big11 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #big12 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med1 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med2 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med3 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med4 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med5 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med6 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med7 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med8 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #med9 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small1 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small2 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small3 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small4 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small5 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small6 {
+     width: 64vw;
+     height: 45vw;
+   }
+   #small7 {
+     width: 64vw;
+     height: 45vw;
+   }
+   .left {
+     top: 36vw;
+     left: 10vw;
+     width: 5vw;
+   }
+   .left img{
+     width: 5vw;
+   }
+   .right {
+     top: 36vw;
+     left: 85vw;
+     width: 5vw;
+   }
+   .right img{
+     width: 5vw;
+   }
+   .note {
+     top: 20vw;
+     left: 24.9vw;
+     width: 50vw;
+     font-family: "actay";
+     font-size: 2.38vw;
+     color: #000AFF;
+     position: relative;
+     text-align: center;
+   }
+
+   /* события */
+   .blur {
+     display: none;
+     height: 100vh;
+     width: 100%;
+     position: fixed;
+     top: 0vw;
+     left: 0vw;
+     background: rgba(196, 223, 255, 0.3);
+     backdrop-filter: blur(8px);
+   }
+   .back1 {
+     top: 1.6vw;
+     left: calc(100% - 7vw);
+     width: 5vw;
+     height: 5vw;
+     position: relative;
+   }
+   .forma h1 {
+     top: 0.2vw;
+     left: 11vw;
+     width: 33vw;
+     font-family: "actay wide";
+     font-size: 3.17vw;
+     color: #C4DFFF;
+     text-transform: uppercase;
+     position: relative;
+     text-align: center;
+   }
+   .forma p {
+     top: 0.1vw;
+     left: 0vw;
+     width: 36vw;
+     font-family: "actay";
+     font-size: 2vw;
+     color: #C4DFFF;
+     position: relative;
+     text-align: center;
+   }
+   .choosing {
+     display: flex;
+     flex-direction: row;
+     justify-content: flex-start;
+   }
+   .column1 {
+     display: flex;
+     flex-direction: column;
+     width: 200px;
+     background-color: pink;
+   }
+   .custom {
+       position: absolute;
+       z-index: -1;
+       opacity: 0;
+   }
+   .custom+label {
+       display: inline-flex;
+       align-items: center;
+       user-select: none;
+   }
+   label {
+     font-family: "actay";
+       font-size: 2vw;
+       margin-left: 1.2vw;
+       color: #C4DFFF;
+   }
+   .rcustom+label::before {
+     content: '';
+     display: inline-block;
+     width: 1em;
+     height: 1em;
+     flex-shrink: 0;
+     flex-grow: 0;
+     border: 2px solid black;
+     border-radius: 50%;
+     margin-right: 0.5em;
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: 50% 50%;
+   }
+
+   .form{
+     font-family: "actay wide";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 3.31vw;
+   line-height: 3.17vw;
+   text-align: center;
+   margin-top: 1.46vw;
+   color: #C4DFFF;
+   }
+   .question{
+     display: none;
+     width: 43vw;
+     height:65vh;
+     z-index: 15;
+     background-color: #000AFF;
+     border-radius: 3.31vw;
+     position: fixed;
+     top:14vh;
+     left: calc( 50% - 21.5vw);
+   }
+   .forma_after{
+     display: none;
+     width: 45vw;
+     height:15vh;
+     z-index: 15;
+     background-color: #000AFF;
+     color: white;
+     position: fixed;
+     padding: 1.32vw;
+     top: calc( 50% - 12vh);
+     left: calc( 50% - 21.5vw);
+   }
+   .forma{
+     display: none;
+     width: 43vw;
+     height:65vh;
+     z-index: 15;
+     background-color: #000AFF;
+     position: fixed;
+     top:14vh;
+     left: calc( 50% - 21.5vw);
+   }
+   .form-split {
+       width: 514px;
+       position: relative;
+       margin: 12px auto;
+       display: flex;
+       justify-content: space-between;
+     }
+     .cross{
+       width: 3vw;
+       height: 3vw;
+       position: relative;
+       left: 36vw;
+       top: 3vh;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: contain;
+       cursor: pointer;
+     }
+     .cross img {
+       width: 5vw;
+       height: 5vw;
+     }
+
+   .big{
+     font-family: "actay";
+     font-size: 3.31vw;
+     line-height: 3.17vw;
+     text-align: center;
+     margin-top: 2.65vw;
+   }
+   input[type="text"], input[type="email"], input[type="tel"], .put{
+     display: block;
+       width: 31.75vw;
+       position: relative;
+       margin: 0.66vw auto;
+       height: 3.44vw;
+       padding: 0 1.19vw;
+       font-family: "actay";
+       font-style: normal;
+       font-weight: 400;
+       font-size: 1.59vw;
+       line-height: 1.72vw;
+       border-radius: 0px;
+       border: 2px solid #000000;
+         color: #000AFF;
+   }
+   .put {
+     display: inline-block;
+     font-family: "actay";
+     left: 4vw;
+     width: 31.75vw;
+     margin: 0;
+     color: #000AFF;
+   }
+   .fo {
+       font-family: "actay";
+       display: block;
+       width: 31.75vw;
+       position: relative;
+       margin: 1.19vw auto 0.79vw auto;
+       font-size: 1.59vw;
+         color: #000AFF;
+   }
+   .but {
+       font-family: "actay";
+       display: block;
+       width: 31.75vw;
+       position: relative;
+     padding-left: 4.96vw;
+     padding-top: 1.65vw;
+       font-size: 1.59vw;
+         color: #000AFF;
+   }
+   label{
+     font-family: "actay";
+     font-style: normal;
+     font-weight: 400;
+     font-size: 1.59vw;
+     line-height: 1.72vw;
+     margin-left: 1.19vw;
+   }
+    .checkbox-list {
+       width: 31.75vw;
+       position: relative;
+       display: block;
+       margin: 1.19vw auto;
+     }
+     .custom{
+     position: absolute;
+     z-index: -1;
+     opacity: 0;
+   }
+   .custom+label {
+     display: inline-flex;
+     align-items: center;
+     user-select: none;
+   }
+   .custom+label::before {
+     content: '';
+     color: white;
+     background-color: white;
+     display: inline-block;
+     width: 1em;
+     height: 1em;
+     flex-shrink: 0;
+     flex-grow: 0;
+     border: 0.13vw solid #000000;
+     margin-right: 0.5em;
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: 50% 50%;
+     cursor: pointer;
+   }
+
+     .radio-list{
+       position: relative;
+       display: inline-block;
+       width: 0.13vw;
+       margin-left: 0;
+       margin-top: 0;
+     }
+     .list{
+       margin-left: 4.50vw;
+       display: flex;
+       flex-direction: row;
+       justify-content: flex-start;
+     }
+     .list1, .list2{
+     display: flex;
+     flex-direction: column;
+       width: 13.23vw;
+     }
+     .list2{
+       margin-left: 0.79vw;
+     }
+     .continue, .complete{
+       left: calc(21.5vw - 4.5em);
+     }
+
+   .radio-list{
+     width: 29.76vw;
+     margin-left: 3.31vw;
+     margin-top: 4vw;
+   }
+
+   /* гл. страница  */
+   .back {
+     position: absolute;
+     width: 100vw;
+     height: 100vh;
+   }
+   #poster {
+     top: 25vw;
+     left: 10vw;
+     height: 25vw;
+     width: 16vw;
+     transform: rotate(-20deg);
+     position: absolute;
+   }
+   #poster img{
+     height: 25vw;
+     width: 16vw;
+   }
+   #shop {
+     top: 25vw;
+     left: 25vw;
+     height: 30vw;
+     width: 35vw;
+     transform: rotate(-16deg);
+     position: absolute;
+   }
+   #shop img{
+     height: 30vw;
+     width: 35vw;
+   }
+   #moda {
+     bottom: 5vw;
+     left: 35vw;
+     height: 17vw;
+     width: 26vw;
+     transform: rotate(16deg);
+     position: absolute;
+   }
+   #moda img{
+     height: 17vw;
+     width: 26vw;
+   }
+   #about {
+     top: 0vw;
+     right: 7vw;
+     height: 49vw;
+     width: 37vw;
+     transform: rotate(8deg);
+     position: absolute;
+     overflow: hidden;
+   }
+   #about img{
+     height: 49vw;
+     width: 37vw;
+   }
+
+   .perv {
+     top: 2vw;
+     left: 10vw;
+     width: 82vw;
+     font-family: "actay wide";
+     font-size: 6.56vw;
+     color: #000AFF;
+     position: absolute;
+     text-align: center;
+     text-transform: uppercase;
+   }
+   .vtor {
+     bottom: 2vw;
+     left: 10vw;
+     width: 82vw;
+     font-family: "actay wide";
+     font-size: 6.56vw;
+     color: #000AFF;
+     position: absolute;
+     text-align: center;
+     text-transform: uppercase;
+   }
+    .button1 {
+       top: 3vw;
+       left: 12vw;
+    }
+    /* moda */
+    .book {
+      top: 18vw;
+      left: 17vw;
+      width: 64vw;
+      height: 45vw;
+    }
+    #big1 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big2 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big3 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big4 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big5 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big6 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big7 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big8 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big9 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big10 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big11 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #big12 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med1 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med2 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med3 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med4 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med5 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med6 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med7 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med8 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #med9 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small1 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small2 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small3 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small4 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small5 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small6 {
+      width: 64vw;
+      height: 45vw;
+    }
+    #small7 {
+      width: 64vw;
+      height: 45vw;
+    }
+    .left {
+      top: 36vw;
+      left: 10vw;
+      width: 5vw;
+    }
+    .left img{
+      width: 5vw;
+    }
+    .right {
+      top: 36vw;
+      left: 85vw;
+      width: 5vw;
+    }
+    .right img{
+      width: 5vw;
+    }
+
+    .note {
+      top: 24vw;
+      left: 24.9vw;
+      width: 52vw;
+      font-family: "actay";
+      font-size: 3.38vw;
+      color: #000AFF;
+      position: relative;
+      text-align: center;
+    }
+    .book {
+      position: relative;
+      top: 20vw;
+      left: 22vw;
+      width: 54.32vw;
+      height: 35.78vw;
+      border-radius: 4vw;
+      border: 1vw solid #000AFF;
+      overflow: hidden;
+    }
+    /* меню */
+    .choice1 {
+      top: 3vw;
+      left: calc(100% - 12vw);
+      width: 10vw;
+      height: 10vw;
+      position: absolute;
+    }
+    .choice1 img {
+      width: 10vw;
+      height: 10vw;
+      position: absolute;
+    }
+    .base-menu .p{
+      top: 90vw;
+      left: 30vw;
+      width: 40vw;
+      font-family: "actay wide";
+      font-size: 6.23vw;
+      color: #C4DFFF;
+      position: relative;
+      text-align: center;
+      text-transform: uppercase;
+      margin-bottom: 4vw;
+    }
+    .overlay .p{
+      top: 90vw;
+      left: 35vw;
+      width: 30vw;
+      font-family: "actay wide";
+      font-size: 6.23vw;
+      color: #000AFF;
+      position: relative;
+      text-align: center;
+      text-transform: uppercase;
+      margin-bottom: 2vw;
+    }
+    .sneg {
+      top: 202vw;
+      left: calc(100% - 13vw);
+      width: 7vw;
+      height: 7vw;
+      position: absolute;
+    }
+    .sneg2 {
+      top: 205vw;
+
+    }
+    .blue-logo {
+      top: 150vw;
+      left: 3vw;
+    }
+}

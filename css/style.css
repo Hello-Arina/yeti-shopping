@@ -1,0 +1,17 @@
+@import "reset.css";
+@import "layout.css";
+@import "event.css";
+@import "menu.css";
+@import "about.css";
+@import "moda.css";
+@import "shop.css";
+@import "404.css";
+@import "adaptive.css";
+@font-face {
+  font-family: 'actay wide';
+  src: url('../fonts/ActayWide-Bold.otf') format("opentype");
+}
+@font-face {
+  font-family: 'actay';
+  src: url('../fonts/Actay-Regular.otf') format("opentype");
+}

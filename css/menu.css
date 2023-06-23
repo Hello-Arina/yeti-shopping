@@ -1,0 +1,85 @@
+menu.html body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #000AFF;
+}
+.choice1 {
+  top: 0.6vw;
+  left: calc(100% - 8.1vw);
+  width: 5vw;
+  height: 5vw;
+  position: absolute;
+}
+.choice1 img {
+  width: 5vw;
+  height: 5vw;
+  position: absolute;
+}
+.base-menu .p{
+  top: 9vw;
+  left: 35vw;
+  width: 30vw;
+  font-family: "actay wide";
+  font-size: 4.23vw;
+  color: #C4DFFF;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2vw;
+}
+.sneg {
+  top: 45vw;
+  left: calc(100% - 7vw);
+  width: 3vw;
+  height: 3vw;
+  position: absolute;
+}
+.sneg2 {
+  top: 45vw;
+  left: calc(100% - 7vw);
+  width: 3vw;
+  height: 3vw;
+  position: absolute;
+}
+.base-menu a {
+  text-decoration: none;
+}
+.blue-logo {
+  top: 10vw;
+  left: 3vw;
+  position: relative;
+  width: 16.01vw;
+}
+.overlay {
+  background-color: #C4DFFF;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  clip-path: circle(6vw at 50% 50%);
+  clip-path: circle(6vw at var(--x,50%) var(--y,50%));
+  transition: clip-path 90ms;
+}
+.overlay .p{
+  top: 9vw;
+  left: 35vw;
+  width: 30vw;
+  font-family: "actay wide";
+  font-size: 4.23vw;
+  color: #000AFF;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2vw;
+}
+.overlay a {
+  text-decoration: none;
+}
+
+.is-open {
+  clip-path: circle(200% at 100% 100%);
+  transition: clip-path 1.5s;
+  transition-timing-function: cubic-bezier(1, -0.01, .01, .99);
+}

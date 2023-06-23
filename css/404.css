@@ -1,0 +1,20 @@
+.chet {
+  position: relative;
+  top: 8vw;
+  left: 8vw;
+  width: 80vw;
+  font-family: "actay wide";
+  font-size: 26.46vw;
+  color: #000AFF;
+  text-align: center;
+}
+.chto {
+  top: 4vw;
+  left: 20vw;
+  width: 60vw;
+  font-family: "actay";
+  font-size: 2.38vw;
+  color: #000AFF;
+  position: relative;
+  text-align: center;
+}

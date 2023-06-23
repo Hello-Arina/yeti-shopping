@@ -1,0 +1,178 @@
+.book {
+  position: relative;
+  top: 6.32vw;
+  left: 22vw;
+  width: 54.32vw;
+  height: 35.78vw;
+  border-radius: 4vw;
+  border: 1vw solid #000AFF;
+  overflow: hidden;
+}
+#big1 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big2 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big3 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big4 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big5 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big6 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big7 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big8 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big9 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big10 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big11 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#big12 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med1 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med2 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med3 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med4 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med5 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med6 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med7 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med8 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#med9 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small1 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small2 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small3 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small4 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small5 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small6 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+#small7 {
+  position: absolute;
+  width: 54.32vw;
+  height: 35.78vw;
+}
+.left {
+  top: 22vw;
+  left: 15vw;
+  position: absolute;
+  width: 3vw;
+}
+.left img{
+  width: 3vw;
+}
+.right {
+  top: 22vw;
+  left: 82vw;
+  position: absolute;
+  width: 3vw;
+}
+.right img{
+  width: 3vw;
+}
+.note {
+  top: 7.5vw;
+  left: 24.9vw;
+  width: 50vw;
+  font-family: "actay";
+  font-size: 1.38vw;
+  color: #000AFF;
+  position: relative;
+  text-align: center;
+}
